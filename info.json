@@ -2,15 +2,19 @@
     "code":"success",
     "message":"",
     "data":[ {
-        "author": "WPKoi", "date": 2522222222, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 5500, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-home-thumb.jpg", "title": "Bekko Home", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-home\/"
+        "author": "PersianElementor", "date": 2522222222, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 5500, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-home-thumb.jpg", "title": "Bekko Home", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-home\/"
     }
     ,
     {
-        "author": "WPKoi", "date": 2522222221, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 5501, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-about-us-thumb.jpg", "title": "Bekko About Us", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-about-us\/"
+        "author": "PersianElementor", "date": 2522222221, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 5501, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-about-us-thumb.jpg", "title": "Bekko About Us", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-about-us\/"
     }
     ,
     {
-        "author": "WPKoi", "date": 2522222220, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 5502, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-contact-thumb.jpg", "title": "Bekko Contact", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-contact\/"
+        "author": "PersianElementor", "date": 2522222220, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 5502, "thumbnail": "https:\/\/wpkoi.com\/wet\/thumb\/bekko-contact-thumb.jpg", "title": "Bekko Contact", "trendIndex": 1, "url": "https:\/\/wpkoi.com\/wpkoi-elementor-templates-demo\/bekko-contact\/"
+    }
+	,
+	{
+        "author": "PersianElementor", "date": 2522222219, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 5502, "thumbnail": "https:\/\/dl.dropboxusercontent..com\/s\/ur1wi9p4pj9ox2s\/zoomitheader.png", "title": "Zoomit Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/zoomit-header\/"
     }
     ]
 }
