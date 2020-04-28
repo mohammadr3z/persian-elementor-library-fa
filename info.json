@@ -19,6 +19,14 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222223, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 1045, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/zhaketheader.png", "title": "Zhaket Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/file-store-header\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222224, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 743, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/hamyarwpheader.png", "title": "HamyarWP Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/hamyarwp-header/\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222225, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "footer", "tags": [], "template_id": 166, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/digikalafooter.png", "title": "Digikala Footer", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/digikala-footer/\/"
     }
     ]
 }
