@@ -71,6 +71,10 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222236, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "footer", "tags": [], "template_id": 1955, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/footer-set-14-3.png", "title": "Footer Set 14 3", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/footer-set-13-4\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222237, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "404 page", "tags": [], "template_id": 1982, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/404-error-1.png", "title": "404 Error 1", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/404-error-1\/"
     }
     ]
 }
