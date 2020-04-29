@@ -43,10 +43,17 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222229, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 206, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/digikalaheader.png", "title": "Digikala Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/digikala-header\/"
-    }	,
+    }	
+	,
 	{
 	
 	    "author": "PersianElementor", "date": 2522222230, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 1834, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/digiatoheader.png", "title": "Digiato Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/digiato-header\/"
+    }	
+	,
+	{
+
+	
+	    "author": "PersianElementor", "date": 2522222231, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "footer", "tags": [], "template_id": 1861, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/digiatofooter.png", "title": "Digiato Footer", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/digiato-footer\/"
     }
     ]
 }
