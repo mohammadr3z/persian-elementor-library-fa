@@ -76,5 +76,13 @@
 	{
 	    "author": "PersianElementor", "date": 2522222237, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "404 page", "tags": [], "template_id": 1982, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/404-error-1.png", "title": "404 Error 1", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/404-error-1\/"
     }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222238, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "header", "tags": [], "template_id": 1991, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/flatsomeheader.png", "title": "Flatsome Header", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/flatsome-header\/"
+    }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222239, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "footer", "tags": [], "template_id": 2004, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/flatsomefooter.png", "title": "Flatsome Footer", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/flatsome-footer\/"
+    }
     ]
 }
