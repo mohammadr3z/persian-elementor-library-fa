@@ -95,6 +95,10 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222242, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "loop", "tags": [], "template_id": 2068, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/wovo-loop.png", "title": "Wovo Loop", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/inhype-footer\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222243, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "loop", "tags": [], "template_id": 2086, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/figma-loop-1.png", "title": "Figma Loop", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/inhype-footer\/"
     }
     ]
 }
