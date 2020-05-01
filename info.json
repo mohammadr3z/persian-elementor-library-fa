@@ -100,5 +100,9 @@
 	{
 	    "author": "PersianElementor", "date": 2522222242, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "loop", "tags": [], "template_id": 2094, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/wovo-loop.png", "title": "Wovo Loop", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/wovo-loop\/"
     }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222243, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "loop", "tags": [], "template_id": 2122, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/lw-loop.png", "title": "LW Loop", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/lw-loop\/"
+    }
     ]
 }
