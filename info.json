@@ -120,5 +120,9 @@
 	{
 	    "author": "PersianElementor", "date": 2522222248, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 1635, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/1635.png", "title": "Digikala Home Page", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/digikala-home\/"
     }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222249, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "loop", "tags": [], "template_id": 2200, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2200.png", "title": "Drawer Loop", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/drawer-loop\/"
+    }
     ]
 }
