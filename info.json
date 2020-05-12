@@ -140,5 +140,9 @@
 	{
 	    "author": "PersianElementor", "date": 2522222253, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2315, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2315.png", "title": "Tech Business Kit – Features", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/tech-business-features\/"
     }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222255, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "pricing", "tags": [], "template_id": 2330, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2330.png", "title": "ACF Price List", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/acf-price\/"
+    }
     ]
 }
