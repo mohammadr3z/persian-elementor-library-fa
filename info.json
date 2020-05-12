@@ -134,7 +134,11 @@
     }	
 	,
 	{
-	    "author": "PersianElementor", "date": 2522222252, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2254, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2254.png", "title": "Tech Kit – Home", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/tech-business-home\/"
+	    "author": "PersianElementor", "date": 2522222252, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2254, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2254.png", "title": "Tech Business Kit – Home", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/tech-business-home\/"
+    }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222253, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2315, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2315.png", "title": "Tech Business Kit – Features", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/tech-business-features\/"
     }
     ]
 }
