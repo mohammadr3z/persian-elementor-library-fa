@@ -114,7 +114,7 @@
     }
 	,
 	{
-	    "author": "PersianElementor", "date": 2522222247, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 127, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/127.png", "title": "Softco Landing Page", "trendIndex": 1, "url": "https:\/\/landing.elementorfa.ir\/softco\/"
+	    "author": "PersianElementor", "date": 2522222247, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2400, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2400.png", "title": "Softco Landing Page", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/softco-landing-page\/"
     }
 	,
 	{
@@ -143,6 +143,14 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222255, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "pricing", "tags": [], "template_id": 2330, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2330.png", "title": "ACF Price List", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/acf-price\/"
+    }
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222256, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2361, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2361.png", "title": "Three Landing Page", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/three-landing-page\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222257, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2439, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2439.png", "title": "Celebi Landing Page", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/celebi-landing-page\/"
     }
     ]
 }
