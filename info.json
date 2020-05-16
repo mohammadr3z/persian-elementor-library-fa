@@ -155,6 +155,10 @@
 	,
 	{
 	    "author": "PersianElementor", "date": 2522222258, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "page", "subtype": "page", "tags": [], "template_id": 2358, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2358.png", "title": "Accelerator Kit - Home 1", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/accelerator-kit-home-1\/"
+    }	
+	,
+	{
+	    "author": "PersianElementor", "date": 2522222259, "favorite": 0, "isPro": 0, "hasPageSettings": 0, "popularityIndex": 1, "type": "block", "subtype": "about", "tags": [], "template_id": 2493, "thumbnail": "https:\/\/raw.githubusercontent.com\/mohammadr3z\/persian-elementor-library-fa\/master\/thumbs\/2493.png", "title": "Accelerator Kit - About", "trendIndex": 1, "url": "https:\/\/library.elementorfa.ir\/accelerator-kit-about\/"
     }
     ]
 }
